@@ -1,0 +1,14 @@
+Task - Your Task is to create an online shopping website (eg. Amazon flipkart), but this will be a clothing website (like myntra, meesho etc).
+
+
+Things to consider - 1) create a good UX (User Experience) for the user. Think of yourself, when you visit a good website how you feel while using good website.
+
+2) include payment gateways so that user can checkout smoothly.
+
+3) include search bar in the website, user can search product using this (learn about "keywords")
+
+4) use sample images to describe the products.
+
+5) All the data should be stored on database, so learn about storing your website data
+
+6) make this website working on a local system/computer after that we will learn how to buy a domain name (eg. www.xyz.com) and server to store our website data online so that it can be accessed from any where.
